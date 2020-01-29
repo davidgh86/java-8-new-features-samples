@@ -1,0 +1,1 @@
+Examples for Java 8 new features
